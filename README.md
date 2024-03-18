@@ -7,4 +7,4 @@ Flappy Maara is a clone of the popular arcade game "Flappy Bird". In the game, t
 ![maara](https://github.com/nnivis/Flappy-Maara/assets/105976276/a6a59254-fade-4ea0-bfc2-64dab56bdbe5)
 
 ## Project link
-[itch.io](https://nuntiusnivis.itch.io/flappy-maara) - HTML
+[itch.io](https://nuntiusnivis.itch.io/flappy-maara)
